@@ -1,0 +1,2 @@
+# Blogs
+Just blogs
